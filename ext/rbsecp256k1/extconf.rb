@@ -2,6 +2,7 @@
 
 require 'mini_portile2'
 require 'mkmf'
+require 'zip'
 require 'zip/zip'
 
 # Enable the recovery module by default
