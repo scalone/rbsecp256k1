@@ -3,7 +3,6 @@
 require 'mini_portile2'
 require 'mkmf'
 require 'zip'
-require 'zip/file'
 
 # Enable the recovery module by default
 WITH_RECOVERY = ENV.fetch('WITH_RECOVERY', '1') == '1'
